@@ -1,7 +1,11 @@
 <h1 align = 'center'> Medical Appointment No Shows </h1>
 
+<div style="width:100%;text-align:center;">
 <img src = 'assets/no-show_image.png'>
+</div>
 
+<b>Image Source</b> - https://afootdoctorsjournal.wordpress.com/2018/02/14/dont-be-a-no-show-what-happens-when-you-miss-your-doctor-appointment/
+<br><br>
 • <b>Problem Statement</b> - Many patients book the appointment with the doctor and then failed to attend scheduled appointments. The average No-Show is 20% leading to <b>lower clinical efficiency</b> and loss of <b>20 million</b> every year to the Brazilian economy.<br><br>
 
 • <b>Objective</b> - To investigate the reason why some patients do not show up to their scheduled appointments.<br><br>
