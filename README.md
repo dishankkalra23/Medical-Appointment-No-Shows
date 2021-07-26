@@ -18,4 +18,22 @@
 • Undertaken <b>exploratory data analysis</b> (EDA) to find the important feature responsible for the no-show.<br><br>
 • To support our analysis used libraries like <b>matplotlib</b> and <b>seaborn</b> to make <b>clean, uncluttered design</b> with <b>easy-to-interpret</b> data visualization.<br><br>
 • Both <b>categorical</b> and <b>quantitative</b> variables were used for visualization.<br><br>
+
+<h3>Conclusion</h3>
+
 • <b>Important features</b> to predict no-shows are age, hypertension, diabetes, neighborhood, and scholarship<br><br>
+
+• Showing rate for appointment is more at older age group than younger age group maybe because people are more concerned for their health in old age than than in younger age.<br><br>
+
+• Hypertension is an important characterstic of patients with higher attendance frequency<br><br>
+
+• Showing rate for men and women are similar<br><br>
+
+• Their is no relation of showing up wrt alcholism and handicaps<br><br>
+
+• Enrolment in Bolsa Familia program or scholarhip is an important feature to determine patients with higher attendance frequency<br><br>
+
+• There is no preference for specific weekday over the other when it comes to attendance frequency.<br><br>
+
+• There is no direct relation of No-Show with shorter or longer waiting days between appointment and schedule day.<br><br>
+
