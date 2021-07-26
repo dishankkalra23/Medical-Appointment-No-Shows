@@ -1,6 +1,7 @@
 <h1 align = 'center'> Medical Appointment No Shows </h1>
 
-<p style="text-align:center;"><img src = 'assets/no-show_image.png'></p>
+<p align = 'center'><img src = 'assets/no-show_image.png'></p>
+
 
 <b>Image Source</b> - https://afootdoctorsjournal.wordpress.com/2018/02/14/dont-be-a-no-show-what-happens-when-you-miss-your-doctor-appointment/
 <br><br>
