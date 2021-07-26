@@ -37,7 +37,7 @@
 
 • There is no direct relation of No-Show with shorter or longer waiting days between appointment and schedule day.<br><br>
 
-<h3><b>Improvement opportunities at administration level</b></h3>
+<h3><b>Improvement opportunities at administration level - </b></h3>
 
 • Their were no appointments at sundays and appointments at saturday's were signifigantly low in comparison to weekdays. Administration should spread the appointments across months and weekdays regardless of weekends.<br><br>
 
@@ -47,7 +47,7 @@
 
 • Administration should follow a systematic approach when sending reminders to patients while closely monitoring the associated costs of sending follow-up reminders<br><br>
 
-<h3>Limitations</h3>
+<h3><b>Limitations - </b></h3>
 • Appointment Time in all the rows is same that is 00:00:00.If appointment time was specified properly then we could have find time intervals over which people prefer to miss scheduled appointment<br><br>
 
 • Handicap section has five different values(0,1,2,3,4) but on Kaggle author describes it as column with boolean values where 0 represents person with no-handicap and 1 with handicap.We have assumed that 1,2,3,4 are handicaps and changed them all to 1 to represent person with handicap. While 0 represents person with no handicap.<br><br>
