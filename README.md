@@ -19,7 +19,7 @@
 • To support our analysis used libraries like <b>matplotlib</b> and <b>seaborn</b> to make <b>clean, uncluttered design</b> with <b>easy-to-interpret</b> data visualization.<br><br>
 • Both <b>categorical</b> and <b>quantitative</b> variables were used for visualization.<br><br>
 
-<h3>Conclusion</h3>
+<h3>Conclusion - </h3>
 
 • <b>Important features</b> to predict no-shows are age, hypertension, diabetes, neighborhood, and scholarship<br><br>
 
@@ -37,3 +37,21 @@
 
 • There is no direct relation of No-Show with shorter or longer waiting days between appointment and schedule day.<br><br>
 
+<h3><b>Improvement opportunities at administration level</b></h3>
+
+• Their were no appointments at sundays and appointments at saturday's were signifigantly low in comparison to weekdays. Administration should spread the appointments across months and weekdays regardless of weekends.<br><br>
+
+• Administration should avoid scheduling multiple appointments in the same day for a single patient unless their is emergency. Giving everyone a chance to get second appointment after missing first appointment gives patient a relief of anyway getting another appointment.<br><br>
+
+• Administration should charge a part of fees in advance while patient is scheduling appointment. This may reduce no-show rate.<br><br>
+
+• Administration should follow a systematic approach when sending reminders to patients while closely monitoring the associated costs of sending follow-up reminders<br><br>
+
+<h3>Limitations</h3>
+• Appointment Time in all the rows is same that is 00:00:00.If appointment time was specified properly then we could have find time intervals over which people prefer to miss scheduled appointment<br><br>
+
+• Handicap section has five different values(0,1,2,3,4) but on Kaggle author describes it as column with boolean values where 0 represents person with no-handicap and 1 with handicap.We have assumed that 1,2,3,4 are handicaps and changed them all to 1 to represent person with handicap. While 0 represents person with no handicap.<br><br>
+
+• Distance from neighbourhood to the hospital is not given which may prove to be very effective in determining neighbourhoods which are far away from hospital<br><br>
+
+• Dataset only have data for month April, May and June. If data for other months was provided then we could have find months with least show-up rates.
