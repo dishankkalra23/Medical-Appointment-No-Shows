@@ -5,11 +5,25 @@
 
 <b>Image Source</b> - https://afootdoctorsjournal.wordpress.com/2018/02/14/dont-be-a-no-show-what-happens-when-you-miss-your-doctor-appointment/
 <br><br>
-• <b>Problem Statement</b> - Many patients book the appointment with the doctor and then failed to attend scheduled appointments. The average No-Show is 20% leading to <b>lower clinical efficiency</b> and loss of <b>20 million</b> every year to the Brazilian economy.<br><br>
 
-• <b>Objective</b> - To investigate the reason why some patients do not show up to their scheduled appointments.<br><br>
+<h2><b>Kaggle Notebook</b></h2>
 
-• Data was gathered from <b>kaggle’s</b> [Medical Appointment No Show](https://www.kaggle.com/joniarroba/noshowappointments) dataset and loaded in <b>google colaboratory</b> for analysis.<br><br>
+https://www.kaggle.com/dishankkalra/why-patients-do-not-show-up-wrangling-eda-viz
+
+<h2><b>Problem Statement</b></h2> 
+
+Many patients book the appointment with the doctor and then failed to attend scheduled appointments. The average No-Show is 20% leading to <b>lower clinical efficiency</b> and loss of <b>20 million</b> every year to the Brazilian economy.<br><br>
+
+<h2><b>Objective</b></h2> 
+
+To investigate the reason why some patients do not show up to their scheduled appointments.<br><br>
+
+<h2><b>Source of dataset</b></h2>
+
+Data was gathered from <b>kaggle’s</b> [Medical Appointment No Show](https://www.kaggle.com/joniarroba/noshowappointments) dataset and loaded in <b>google colaboratory</b> for analysis.<br><br>
+
+<h2><b>Important Points</b></h2>
+
 • Dataset has more than <b>100K</b> records/rows.<br><br>
 • In <b>data-wrangling</b> major time was devoted to <b>assessing</b> and <b>cleaning data</b>. Data was <b>dirty</b> and <b>messy</b> with issues in its content.<br><br>
 • Cleaning <b>invalid data</b> like float datatype for PatientID and AppointmentID, negative values in age column which is impossible.<br><br>
@@ -22,8 +36,8 @@
 • To support our analysis used libraries like <b>matplotlib</b> and <b>seaborn</b> to make <b>clean, uncluttered design</b> with <b>easy-to-interpret</b> data visualization.<br><br>
 • Both <b>categorical</b> and <b>quantitative</b> variables were used for visualization.<br><br>
 
-<h3>Conclusion - </h3>
-
+<h2><b>Conclusion</b></h2>
+  
 • <b>Important features</b> to predict no-shows are age, hypertension, diabetes, neighborhood, and scholarship<br><br>
 
 • Showing rate for appointment is more at older age group than younger age group maybe because people are more concerned for their health in old age than than in younger age.<br><br>
@@ -40,7 +54,7 @@
 
 • There is no direct relation of No-Show with shorter or longer waiting days between appointment and schedule day.<br><br>
 
-<h3><b>Improvement opportunities at administration level - </b></h3>
+<h2><b>Improvement opportunities at administration level</b></h2>
 
 • Their were no appointments at sundays and appointments at saturday's were signifigantly low in comparison to weekdays. Administration should spread the appointments across months and weekdays regardless of weekends.<br><br>
 
@@ -50,7 +64,8 @@
 
 • Administration should follow a systematic approach when sending reminders to patients while closely monitoring the associated costs of sending follow-up reminders<br><br>
 
-<h3><b>Limitations - </b></h3>
+<h2><b>Limitations</b></h2>
+  
 • Appointment Time in all the rows is same that is 00:00:00.If appointment time was specified properly then we could have find time intervals over which people prefer to miss scheduled appointment<br><br>
 
 • Handicap section has five different values(0,1,2,3,4) but on Kaggle author describes it as column with boolean values where 0 represents person with no-handicap and 1 with handicap.We have assumed that 1,2,3,4 are handicaps and changed them all to 1 to represent person with handicap. While 0 represents person with no handicap.<br><br>
