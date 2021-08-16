@@ -3,12 +3,12 @@
 <p align = 'center'><img src = 'assets/no-show_image.png'></p>
 
 
-<b>Image Source</b> - https://afootdoctorsjournal.wordpress.com/2018/02/14/dont-be-a-no-show-what-happens-when-you-miss-your-doctor-appointment/
+<b>Image Source</b> - [afootdoctorsjournal.wordpress.com](https://afootdoctorsjournal.wordpress.com/2018/02/14/dont-be-a-no-show-what-happens-when-you-miss-your-doctor-appointment/)
 <br><br>
 
 <h2><b>Kaggle Notebook</b></h2>
 
-https://www.kaggle.com/dishankkalra/why-patients-do-not-show-up-wrangling-eda-viz
+[Why Patients DO NOT Show-up? Wrangling, EDA & Viz](https://www.kaggle.com/dishankkalra/why-patients-do-not-show-up-wrangling-eda-viz)
 
 <h2><b>Problem Statement</b></h2> 
 
