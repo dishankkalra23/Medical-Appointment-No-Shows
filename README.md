@@ -9,10 +9,12 @@
 <h2><b>Kaggle Notebook</b></h2>
 
 [Why Patients DO NOT Show-up? Wrangling, EDA & Viz](https://www.kaggle.com/dishankkalra/why-patients-do-not-show-up-wrangling-eda-viz)
+<br><br>
 
 <h2><b>Google Colaboratory</b></h2>
 
 [Medical-Appointment-No-Shows.ipynb](https://colab.research.google.com/drive/1L-CfqAo2XCJVNcLWFeF-E7Kp0Lkpflcn?usp=sharing)
+<br><br>
 
 <h2><b>Problem Statement</b></h2> 
 
