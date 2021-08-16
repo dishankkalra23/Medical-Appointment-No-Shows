@@ -10,6 +10,10 @@
 
 [Why Patients DO NOT Show-up? Wrangling, EDA & Viz](https://www.kaggle.com/dishankkalra/why-patients-do-not-show-up-wrangling-eda-viz)
 
+<h2><b>Google Colaboratory</b></h2>
+
+[Medical-Appointment-No-Shows.ipynb](https://colab.research.google.com/drive/1L-CfqAo2XCJVNcLWFeF-E7Kp0Lkpflcn?usp=sharing)
+
 <h2><b>Problem Statement</b></h2> 
 
 Many patients book the appointment with the doctor and then failed to attend scheduled appointments. The average No-Show is 20% leading to `lower clinical efficiency` and `loss of 20 million` every year to the Brazilian economy.<br><br>
