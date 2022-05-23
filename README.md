@@ -28,6 +28,40 @@ To investigate the reason why some patients do not show up to their scheduled ap
 
 Data was gathered from `kaggle’s` [Medical Appointment No Show](https://www.kaggle.com/joniarroba/noshowappointments) dataset and loaded in `google colaboratory` for analysis.<br><br>
 
+<h2><b>Key Insights</b></h2>
+
+<p align = 'center'><img src = 'assets/2.png'></p>
+
+The proportion of males and females patient in the dataset is 35% and 65% respectively. The proportion of females is much more than males in the dataset
+
+<p align = 'center'><img src = 'assets/7.png'></p>
+
+There is an increase in the show-up rate among diabetic males and females. We can say that diabetic patients are more likely to attend the scheduled appointment
+
+<p align = 'center'><img src = 'assets/1.png'></p>
+
+There is no strong correlation b/w show-up and other features. There is positive correlation b/w diabetes and hypertension i.e 0.43. Patients getting reminders via SMS and show-up rate have a negative correlation. Patients getting reminders regarding appointment may be are more likely to no-show.
+
+<p align = 'center'><img src = 'assets/6.png'></p>
+
+Saturday has a slightly higher no-show rate in comparison to other days. We can't conclude appointments on Saturdays will be more likely to be not shown due to less number of appointments
+
+<p align = 'center'><img src = 'assets/3.png'></p>
+
+An outlier is defined as a data point that is located outside the whiskers of the box plot. There is outlier at 115 and the right bound is 110
+
+<p align = 'center'><img src = 'assets/5.png'></p>
+
+Neighborhoods with the highest show-up rate are JARDIM CAMBURI with 81% show-up rate following MARIA ORTIZ	with 79% show-up rate
+
+<p align = 'center'><img src = 'assets/4.png'></p>
+
+From JARDIM CAMBURI there were highest appointments i.e. 7717
+
+<p align = 'center'><img src = 'assets/8.png'></p>
+
+It is evident from the above graph that people who got SMS reminders irrespective of their gender were the ones with less show-up rate. Failing to remember the appointment is not an issue for the no-show.
+
 <h2><b>Important Points</b></h2>
 
 • Dataset has more than `100K` records/rows.<br><br>
